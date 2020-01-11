@@ -2,6 +2,19 @@
 
 This is a boilerplate project used for starting new projects!
 
+The following dependencies are installed by default:
+`cors`
+`dotenv`
+`express`
+`helmet`
+`morgan
+
+The follosing dev dependencies are alse installed by default:
+`chai`
+`mocha`
+`nodemon`
+`supertest`
+
 ## Set up
 
 Complete the following steps to start a new project (NEW-PROJECT-NAME):
