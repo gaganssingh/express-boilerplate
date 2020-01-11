@@ -9,6 +9,8 @@ The following dependencies are installed by default:
 `helmet`
 `morgan`
 
+Installed a logging library if required `npm i winston`
+
 The follosing dev dependencies are alse installed by default:
 `chai`
 `mocha`
