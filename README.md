@@ -7,7 +7,7 @@ The following dependencies are installed by default:
 `dotenv`
 `express`
 `helmet`
-`morgan
+`morgan`
 
 The follosing dev dependencies are alse installed by default:
 `chai`
